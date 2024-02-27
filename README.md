@@ -1,5 +1,7 @@
 # carecompass
-By analyzing this data, we hope to find patterns of inflammation and hope to construct verifiable medical care projects to help patients with symptoms diagnose in time.
+Without having to know the full details of the model, patients can predict the direction of the disease through the model, build medical data, train verifiable models, protect private data for users, and make verifiable judgments about symptoms to provide an effective care compass
+
+By training UCI datasets using XGBoost classification, we hope to find patterns of inflammation and hope to construct verifiable medical care projects to help patients with symptoms diagnose in time.
 
 Through this work, we also hope to improve the diagnostic accuracy and speed of doctors for these two types of inflammation. We believe that through scientific data analysis methods, we can better understand the patterns of inflammation and provide more accurate predictions and more effective treatment plans.
 
