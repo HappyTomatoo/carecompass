@@ -9,7 +9,10 @@ Through this work, we also hope to improve the diagnostic accuracy and speed of 
 ```shell
 git clone https://github.com/HappyTomatoo/carecompass.git
 ```
-
+## Environment
+```shell
+pip install -r requirements.txt
+```
 ## Generate ONNX model
 ```shell
 cd carecompass

@@ -1,0 +1,16 @@
+giza-actions==0.1.3
+giza-cli==0.12.1
+giza-datasets==0.1.1
+giza-osiris==0.2.5
+numpy==1.26.1
+onnx==1.15.0
+onnxconverter-common==1.14.0
+onnxmltools==1.11.2
+onnxruntime==1.17.0
+onnxruntime-tools==1.7.0
+pandas==2.1.2
+scikit-learn==1.2.2
+skl2onnx==1.15.0
+sklearn==0.0.post10
+starknet-py==0.18.2
+xgboost==2.0.1
